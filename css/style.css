@@ -59,6 +59,7 @@ body{
 	float: left;
 	overflow: hidden;
 	background-image: url("../img/bg.jpg");
+	background-repeat: no-repeat;
 }
 .top{
 	width: 640px;
