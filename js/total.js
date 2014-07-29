@@ -6,7 +6,7 @@ function total(){
 		}
 	}
 	$('.btn').click(function(){
-		_gaq.push(['_trackEvent', 'button', 'click', '点击办卡']);
+		_gaq.push(['_trackEvent', 'button', 'click', '爸爸去哪儿-了解详情']);
 		gadebug();
 	});
 	$('.select_box').click(function(){
